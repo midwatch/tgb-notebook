@@ -1,5 +1,10 @@
+apt-transport-https
+ca-certificates
 git
 git-flow
+gnupg
+google-cloud-sdk
+google-cloud-sdk-app-engine-python
 python3-pip
 python3-testresources
 tig
