@@ -1,0 +1,12 @@
+runtime:        python38
+
+handlers:
+- url: /
+  static_files: build/www/index.html
+  upload:       build/www/index.html
+  secure:       always
+
+- url: /(.*)
+  static_files: build/www/\1
+  upload:       build/www/(.*)
+  secure:       always
