@@ -101,9 +101,17 @@ def init(ctx):
 @task(pre=[clean, build])
 def release(ctx):
     """
-    Make a release of the python package to pypi
+    Build notebook and release to Google App Engine
     """
-    # ctx.run(f'rsync -r --delete {RSYNC_PATH_LOCAL} {RSYNC_USER}@{RSYNC_HOST}:{RSYNC_PATH_REMOTE}')
+    args = [
+        ctx['secrets']['pub']['user_name'],
+        '--key-file={}'.format(Path.home() / ctx['secrets']['pub']['user_key']),
+        '--project={}'.format(ctx['secrets']['pub']['project'])
+        ]
+
+    cmd = 'gcloud auth activate-service-account {}'.format(' '.join(args))
+    ctx.run(cmd)
+    ctx.run('gcloud app deploy')
 
 scm = Collection()
 scm.add_task(scm_push, name="push")
