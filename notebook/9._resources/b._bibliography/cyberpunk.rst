@@ -8,7 +8,7 @@ Books
 ---------------------------------------------------------------------------------------------------
 
 .. csv-table::
-    :file: include/cyberpunk-books.csv
+    :file: _include/cyberpunk-books.csv
     :header-rows: 1
 
 
@@ -16,7 +16,7 @@ Films
 ---------------------------------------------------------------------------------------------------
 
 .. csv-table::
-    :file: include/cyberpunk-films.csv
+    :file: _include/cyberpunk-films.csv
     :header-rows: 1
 
 
