@@ -30,8 +30,6 @@ There is no advantage like mechanical advantage.
   - CNC machines
 
 
-
-
 Notes:
 ========================================
 
