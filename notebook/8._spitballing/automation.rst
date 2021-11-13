@@ -8,6 +8,7 @@ There is no advantage like mechanical advantage.
 
 - ATMs [a]
 - Vending Machines [1]
+- Farm machinery
 - Drones
 - Office Software
 
