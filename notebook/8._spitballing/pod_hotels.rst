@@ -15,9 +15,6 @@ conventional hotels.
 References
 =======================================
 
-References
-=======================================
-
 1.  `Capsule hotel <https://en.wikipedia.org/wiki/Capsule_hotel>`_
 2.  `Lifestyle - Housing <https://cyberpunk.fandom.com/wiki/Lifestyle#Housing>`_
 3.  `Boxed in: life inside the 'coffin cubicles' of Hong Kong – in pictures <https://www.theguardian.com/cities/gallery/2017/jun/07/boxed-life-inside-hong-kong-coffin-cubicles-cage-homes-in-pictures>`_
