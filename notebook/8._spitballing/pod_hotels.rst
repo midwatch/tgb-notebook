@@ -12,6 +12,18 @@ not require or who cannot afford larger, more expensive rooms offered by more
 conventional hotels.
 
 
+**$20 CAPSULE HOTEL Vs. $60 CAPSULE HOTEL in TOKYO**
+
+- LivingBobby
+- https://youtu.be/qxdsPjHoD7I
+
+
+**$54 a night luxurious Japanese capsule hotel**
+
+- hiding in my room
+- https://youtu.be/5Hj6QM8I7OE
+
+
 References
 =======================================
 
