@@ -1,6 +1,7 @@
 .. _TM0uGKg0an:
 
 =======================================
-Squatting
+Informal Communities
 =======================================
 
+aka Favelas, Slums, and Squats
