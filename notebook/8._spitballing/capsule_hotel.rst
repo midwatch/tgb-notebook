@@ -1,11 +1,10 @@
 .. _6lK2RX0Tp6:
 
 =======================================
-Pod Hotels
+Capsule Hotels
 =======================================
 
-aka capsule hotel [1]
-aka Cyberpunk coffin [2]
+aka Cyberpunk coffin
 
 Capsule hotels provide cheap, basic overnight accommodation for guests who do
 not require or who cannot afford larger, more expensive rooms offered by more
