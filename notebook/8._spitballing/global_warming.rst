@@ -21,3 +21,14 @@ Migration
 - Dust bowl. Migration to west coast and the abondoned towns still exist in
   Kansas et all
 - Climate genetrification. Already happening in Miami
+
+
+**Oregon Already Has a Climate Refugee Crisis**
+
+- https://youtu.be/gv_L1_6U7L4
+
+
+**Texas’s Proposal for $26.2BN Seawall**
+
+- https://youtu.be/1Oz6U4cFzs0
+

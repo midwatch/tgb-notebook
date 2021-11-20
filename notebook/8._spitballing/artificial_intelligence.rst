@@ -39,3 +39,8 @@ Troll farms are at least semi-automated and properly executed can get people to
 turn out in real life and do silly things.
 
 AI created, and bot net laundered, fake news (local and otherwise).
+
+
+**Cyberpunk 2077’s SECRET Character - Mr Blue Eyes & His Dark Story Explained!**
+
+- https://youtu.be/QQf-9aIgTBI
