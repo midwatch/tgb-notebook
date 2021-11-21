@@ -31,6 +31,12 @@ There is no advantage like mechanical advantage.
   - CNC machines
 
 
+**RoboCop (2014) - Operation Freedom Tehran**
+
+- RED Lion Movie Shorts
+- https://youtu.be/AIk94MJS_Sc
+
+
 Notes:
 ========================================
 

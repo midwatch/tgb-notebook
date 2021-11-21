@@ -27,3 +27,14 @@ Urban
 **TOP 10 AMAZING ABANDONED SUBWAY STATIONS GREAT FOR AN UNDERGROUND PARTY**
 
 - http://www.06amibiza.com/top-10-amazing-abandoned-subway-stations-great-for-an-underground-party/
+
+
+**ABANDONED Underground Concourses of Philadelphia**
+
+- https://youtu.be/SR0JbSHv76E
+
+
+**Exploring the Abandoned Knoxville Center Mall**
+
+- https://youtu.be/i8-ez1tXEu8
+

@@ -1,15 +1,26 @@
 .. _6lK2RX0Tp6:
 
 =======================================
-Pod Hotels
+Capsule Hotels
 =======================================
 
-aka capsule hotel [1]
-aka Cyberpunk coffin [2]
+aka Cyberpunk coffin
 
 Capsule hotels provide cheap, basic overnight accommodation for guests who do
 not require or who cannot afford larger, more expensive rooms offered by more
 conventional hotels.
+
+
+**$20 CAPSULE HOTEL Vs. $60 CAPSULE HOTEL in TOKYO**
+
+- LivingBobby
+- https://youtu.be/qxdsPjHoD7I
+
+
+**$54 a night luxurious Japanese capsule hotel**
+
+- hiding in my room
+- https://youtu.be/5Hj6QM8I7OE
 
 
 References
