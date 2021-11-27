@@ -4,6 +4,16 @@
 Drones
 =======================================
 
+**Mouse Drone**
+
+- https://starwars.fandom.com/wiki/MSE-series
+
+Simple secure messenger drone used for interoffice communication/mail.
+
+Very handy to move information (aka thumb drives) between air gapped
+systems and teams; very hard to remotly intecept offline information.
+
+
 **RoboCop (2014) - Operation Freedom Tehran**
 
 - https://youtu.be/AIk94MJS_Sc
