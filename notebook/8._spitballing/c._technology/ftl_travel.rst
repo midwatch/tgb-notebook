@@ -199,6 +199,7 @@ basic rules governed how and where ships traveled.
 
 `The Entire Star Wars Galaxy Explained <https://youtu.be/t5ny0LQjC3Q>`_
 
+`Why is half the Star Wars Galaxy UNEXPLORED? <https://youtu.be/9g5Dutm89kk>`_
 
 Ships
 ---------------------------------------
