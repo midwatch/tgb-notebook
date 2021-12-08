@@ -4,8 +4,11 @@
 Abandoned
 =======================================
 
-Grist
+References
 =======================================
+
+Videos
+---------------------------------------
 
 **12 Most Incredible Abandoned Objects That Really Exist**
 
@@ -25,3 +28,8 @@ Grist
 **Abandoned - Houston Astrodome**
 
 - https://youtu.be/mU4lZBOpy90
+
+
+**The World's Abandoned Buildings**
+
+- https://youtu.be/65ufokJuhYs
