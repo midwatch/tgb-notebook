@@ -4,20 +4,22 @@
 Armored Suburban
 =======================================
 
-Cost over $300K
-1/2" Steel armor plate
-3" balistic glass
+High Level Details:
+
+- Cost over $300K (base vehicle and armoring)
+- 1/2" steel armor plate
+- 3" ballistic glass
 
 Withstood everything up to .50 ball ammunition and a shaped charge on the
 windshield.
 
-A AP round from the PKM did find a weak spot in the door armor and penetrate
-(a critical hit...)
+An Armor Piercing (AP) round from the PKM did find a weak spot in the door armor and penetrate into the cabin;
+obviously a "critical hit".
 
 Obviously did not fare well against tank rounds.
 
 
-Referemces
+References
 =======================================
 
 Videos
