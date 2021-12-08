@@ -17,3 +17,4 @@ References
 #. `US Army <https://asc.army.mil/web/portfolio-item/cs-css-joint-light-tactical-vehicle/>`_
 #. `Oshkosh Defense <https://oshkoshdefense.com/vehicles/light-tactical-vehicles/jltv/>`_
 #. `Task & Purpose <https://youtu.be/Sk2RgnpunjQ>`_
+#. `Combat Tactical Vehicle Demonstrator <https://en.wikipedia.org/wiki/Combat_Tactical_Vehicle_(Technology_Demonstrator)>`_
