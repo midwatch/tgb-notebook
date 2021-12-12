@@ -83,7 +83,7 @@ def build(ctx):
     """
     ctx.run('mkdir build')
     ctx.run('cp -r notebook build/rst')
-    ctx.run(f'sphinx_notebook build --template-dir {TEMPLATE_ROOT} notebook/ build/rst/index.rst')
+    ctx.run(f'sphinx_notebook build --prune _include --template-dir {TEMPLATE_ROOT} notebook/ build/rst/index.rst')
     ctx.run('sphinx-build -b html build/rst build/www')
 
 
