@@ -1,8 +1,14 @@
-.. _lAJ2lonrTE:
+.. _d2MEUEhIyz:
 
 =======================================
 Bunkers
 =======================================
+
+References
+=======================================
+
+Videos
+---------------------------------------
 
 **Lost city on underground World War Two bunkers built by Nazis FOUND on Dutch coast**
 
@@ -24,3 +30,11 @@ https://www.swissinfo.ch/eng/society/in-case-of-emergency_the-forgotten-undergro
 **THE LAST NAZI SECRET - KAMMLER'S LOST UNDERGROUND CITIES - THE LARGEST TUNNELS OF WW2 EP 2 SE 2**
 
 - https://youtu.be/Ppdxyh8SkC0
+
+
+**The Emperor of Man - Warhammer 40K**
+
+- https://youtu.be/KyPjE1Sn-Ts
+
+Had an underground complex under the himalayan mountains that he used to build
+up his forces for conquering the Earth from the various war lords and such.

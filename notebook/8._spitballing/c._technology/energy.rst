@@ -19,3 +19,12 @@ Videos
 
 - https://youtu.be/74iiaXIVtZI
 
+
+**This Is Not a Crane, It's an Insane New Gravity Battery**
+
+- https://youtu.be/WCawtiU4o1o
+
+
+**Revisiting the Supercapacitor - The Wait for Graphene is Over**
+
+- https://youtu.be/swdyGHvmXw0
