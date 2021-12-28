@@ -5,23 +5,33 @@ Cyberpunk
 =======================================
 
 Books
----------------------------------------------------------------------------------------------------
+---------------------------------------
 
 .. csv-table::
-    :file: _include/cyberpunk-books.csv
+    :file: _include/tables/cyberpunk-books.csv
     :header-rows: 1
 
 
 Films
----------------------------------------------------------------------------------------------------
+---------------------------------------
 
 .. csv-table::
-    :file: _include/cyberpunk-films.csv
+    :file: _include/tables/cyberpunk-films.csv
     :header-rows: 1
 
 
-Other
----------------------------------------------------------------------------------------------------
+Table Top RPG
+---------------------------------------
+
+**Cyberpunk 2020**
+
+.. csv-table::
+    :file: _include/tables/ttrpg-cp2020.csv
+    :header-rows: 1
+
+
+Community
+---------------------------------------
 
 .. list-table::
     :header-rows: 1

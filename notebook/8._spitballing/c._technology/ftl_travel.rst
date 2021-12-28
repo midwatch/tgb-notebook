@@ -74,6 +74,11 @@ seconds perhaps minutes at a time
 https://www.quora.com/What-are-alternatives-to-faster-than-light-space-travel
 
 
+**NASA/DARPA Scientists Found a Way To Create an Actual Warp Bubble (In Theory)**
+
+- https://youtu.be/ZZset72bHLI
+
+
 Fuel
 ---------------------------------------
 

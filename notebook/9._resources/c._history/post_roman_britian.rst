@@ -1,7 +1,7 @@
 .. _P1fg103gFW:
 
 =======================================
-Heptarchy
+Post Roman Britian
 =======================================
 
 The Heptarchy is a collective name applied to the seven kingdoms of Anglo-Saxon
@@ -47,3 +47,54 @@ Major Events:
       - Kingdom of England formed
     * - 1066
       - Norman conquest
+
+
+References
+=======================================
+
+Videos
+---------------------------------------
+
+**Britain After Rome // The Age of Arthur**
+
+- https://youtu.be/1k3e4qlgtaQ
+
+
+**Five Boroughs of the Danelaw // Vikings Documentary**
+
+- https://youtu.be/GbVWwL5sxLA
+
+
+**1000 AD - A Tour of Europe / Medieval History Documentary**
+
+- https://youtu.be/HapGfrGR_gE
+
+
+**After Rome - The War For Britain // History Documentary**
+
+- https://youtu.be/sXBgNNtEJ6M
+
+
+**The Entire History of Roman Britain (55 BC - 410 AD) // Ancient Rome Documentary**
+
+- https://youtu.be/dvtVLa4uOYc
+
+
+**Britain After Rome // The Age of Arthur - History Documentary**
+
+- https://youtu.be/1k3e4qlgtaQ
+
+
+**The Real Ivar The Boneless // Vikings Documentary**
+
+- https://youtu.be/w3lRf6FT_pM
+
+
+**The Real Ragnar Lothbrok // Vikings Documentary**
+
+- https://youtu.be/4bjo_WYgRd0
+
+
+**What Happened To The Last Vikings? (1027-1263) // History Documentary**
+
+- https://youtu.be/YjDuLWtxvCU
