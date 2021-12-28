@@ -21,3 +21,12 @@ Grist
 
 - https://youtu.be/1B-Usr7cLxg
 
+
+**INSIDE the SMALLEST Apartment in NEW YORK CITY | 60 ft.² Micro Studio**
+
+- https://youtu.be/kUMQ-bRxOjw
+
+
+**Inside Tokyo's TINIEST Luxury Apartment**
+
+- https://youtu.be/jZ7Bu_SDJgM

@@ -48,3 +48,8 @@ Videos
 **Exploring the Abandoned Knoxville Center Mall**
 
 - https://youtu.be/i8-ez1tXEu8
+
+
+**Exploring Vorkuta - Russian Ghost Town in Arctic**
+
+- https://youtu.be/2i3aS6T6Nng

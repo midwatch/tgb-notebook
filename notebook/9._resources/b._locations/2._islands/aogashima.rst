@@ -1,7 +1,7 @@
 .. _1jtRnsevkd:
 
 =======================================
-Aogashima Island
+Aogashima
 =======================================
 
 https://en.wikipedia.org/wiki/Aogashima
