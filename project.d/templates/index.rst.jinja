@@ -22,11 +22,11 @@ The Great Breaking World Book
 {% for row in node.children | selectattr("is_leaf") | batch(4, '') -%}
 {% for col in row -%}
 {% if loop.first %}
-{{ "    * - :ref:`%s <%s>`"|format(col.title, col.ref_id) }}
+{{ "    * - :doc:`%s <%s>`"|format(col.title, col.target) }}
 {% elif col == '' %}
 {{ "      - " }}
 {% else %}
-{{ "      - :ref:`%s <%s>`"|format(col.title, col.ref_id) }}
+{{ "      - :doc:`%s <%s>`"|format(col.title, col.target) }}
 {% endif %}
 {%- endfor %}
 
