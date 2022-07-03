@@ -1,4 +1,5 @@
 invoke
+mw_dry_invoke
 pip
 poetry
 Sphinx
