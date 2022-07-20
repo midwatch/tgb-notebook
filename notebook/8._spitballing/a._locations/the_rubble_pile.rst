@@ -5,6 +5,7 @@ The Rubble Pile
 =======================================
 
 Era: Post-apocalyptic Earth
+
 Location: A non-flooded section of a mega-city
 
 A collection (3-4) of large high-rise or mega buildings in relativly close
